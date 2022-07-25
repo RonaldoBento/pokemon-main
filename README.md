@@ -19,7 +19,7 @@
 
  ## IMPORTANTE ##
  
-  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/html-css/blob/main/LICENSE) 
+  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/pokemon-main/blob/main/LICENSE) 
   
  <p>Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
  
