@@ -1,11 +1,11 @@
 # pokemon-main
-<<<<<<< HEAD
-
-## PokéAPI - Uma API externa para fazer pesquisas de forma dinâmica. 
 
 <br><img src="logo-bento-projeto.png" alt="logo bento-projeto no formato png"><br>
 
-<a href="https://pokeapi.co/" target="_blank" rel="external" title="pokeapi"><strong>Documentação da API: PokéAPI</strong></a><br>
+
+## PokéAPI - Uma API externa para fazer pesquisas de forma dinâmica. 
+
+<br><a href="https://pokeapi.co/" target="_blank" rel="external" title="pokeapi"><strong>Documentação da API: PokéAPI</strong></a><br>
 
 ## Screenshot do projeto:
 
@@ -13,11 +13,9 @@
 
 <br><img src="login2.png" alt="tela no formato png"><br>
 
-=======
+
 ## API externa para fazer pesquisas de forma dinâmica. PokéAPI:
 
- <img src="login.png" alt="tela no formato png"><br>
->>>>>>> afca24763ab1ab531f2b476e4010ae38f5111555
 
  ## IMPORTANTE ##
  
@@ -37,4 +35,6 @@ Ela define formatos e padrões estéticos dentro de uma página da web em um arq
 Com seus scripts é possível incluir, em uma página estática, elementos dinâmicos como mapas, formulários, operações numéricas, animações, infográficos interativos e muito mais.
 
 O <strong>GitHub Pages</strong> é um serviço de hospedagem de site estático que usa arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub e, como opção, executa os arquivos por meio de um processo e publica um site.</p>
+
+<img src="frame.png" alt="tela no formato png"><br>
 
