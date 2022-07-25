@@ -19,7 +19,7 @@
 
  ## IMPORTANTE ##
  
-  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/html-css/blob/main/LICENSE) 
+  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/pokemon-main/blob/main/LICENSE) 
   
  <p>Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
  
@@ -35,6 +35,9 @@ Ela define formatos e padrões estéticos dentro de uma página da web em um arq
 Com seus scripts é possível incluir, em uma página estática, elementos dinâmicos como mapas, formulários, operações numéricas, animações, infográficos interativos e muito mais.
 
 O <strong>GitHub Pages</strong> é um serviço de hospedagem de site estático que usa arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub e, como opção, executa os arquivos por meio de um processo e publica um site.</p>
+
+<a href="https://ronaldobento.github.io/pokemon-main/index.html" target="_blank" rel="external" title="Clique aqui para entrar no site do projeto pokemon-main"><strong>Clique aqui para entrar no site do projeto pokemon-main ou utilize o QR Code abaixo</strong></a><br>
+
 
 <img src="frame.png" alt="tela no formato png"><br>
 
