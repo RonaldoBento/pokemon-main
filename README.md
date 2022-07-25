@@ -1,6 +1,8 @@
 # pokemon-main
 ## API externa para fazer pesquisas de forma dinâmica. PokéAPI:
 
+ <img src="login.png" alt="tela no formato png"><br>
+
  ## IMPORTANTE ##
  
   [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/html-css/blob/main/LICENSE) 
