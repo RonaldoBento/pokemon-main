@@ -5,6 +5,10 @@
 
 ## PokéAPI - Uma API externa para fazer pesquisas de forma dinâmica. 
 
+## O que é uma API?
+
+Uma _**API**_ (Application Programming Interface) é um contrato que permite aos desenvolvedores interagir com um aplicativo por meio de um conjunto de interfaces. Nesse caso, o aplicativo é um banco de dados de milhares de objetos relacionados a Pokémon e as interfaces são links de URL.
+
 <br><a href="https://pokeapi.co/" target="_blank" rel="external" title="pokeapi"><strong>Documentação da API: PokéAPI</strong></a><br>
 
 ## Screenshot do projeto:
